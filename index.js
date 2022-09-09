@@ -6,3 +6,4 @@ const newCity = city;
 console.log(city, newCity);
 newCity.located = 'America';
 console.log(city, newCity)
+
