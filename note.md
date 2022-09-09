@@ -1,3 +1,11 @@
+Primitive Type & NON Primitive Type
+Single & Many Value
+JS is a Dynamic Typed Language
+
+
+
+
+
 ১. জাভাস্ক্রিপ্ট কী কী ডাটা টাইপের ভেরিয়েবল আছে?
 
 ২. জাভাস্ক্রিপ্ট ফাংশন, বা array কি টাইপের জিনিস ? 
